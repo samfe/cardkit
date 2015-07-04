@@ -1,1 +1,1 @@
-Add Procfile for Heroku
+web: grunt
