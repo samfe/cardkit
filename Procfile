@@ -1,1 +1,1 @@
-web: bundle exec middleman -p $PORT
+web: bundle exec rails server -p $PORT
