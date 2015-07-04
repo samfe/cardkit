@@ -1,1 +1,1 @@
-web: node ./app/scripts/controllers/main.js
+web: node ./app/scripts/app.js
